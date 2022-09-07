@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Product" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/m1</item>
+        <item name="colorPrimaryVariant">@color/m1</item>
+        <item name="android:statusBarColor"> ?attr/colorPrimaryVariant </item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name='android:windowContentOverlay'>@null</item>
+    </style>
+</resources>
